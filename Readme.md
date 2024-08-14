@@ -6,6 +6,10 @@
 通过学习基于Python的医院门诊预约挂号管理系统项目，大学生可以在实践中学习和提升自己的能力，为以后的职业发展打下坚实基础。学习过程中遇到问题可以咨询微信：Lengqin1024 或者发Email: kefu308@gmail.com
 
 
+## 在线演示
+
+演示地址：[https://gh.gitapp.cn](https://gh.gitapp.cn)
+
 ## 主要功能
 
 - 医生管理：管理系统可以录入、修改和查询医生的基本信息，如名称、价格、职称、备注等。
@@ -39,13 +43,8 @@
 - 前端技术栈 ES6、vue、vuex、vue-router、vue-cli、axios、antd
 - 后端技术栈 Python、Django、pip
 
-## 源码下载
 
-https://github.com/geeeeeeeek/python_gh
 
-## 在线演示
-
-演示地址：[https://gh.gitapp.cn](https://gh.gitapp.cn)
 
 ## 运行步骤
 
